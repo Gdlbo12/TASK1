@@ -1,0 +1,14 @@
+/Users/dmitrijzitov/Desktop/Texrazr/bin/Debug/net10.0/Texrazr
+/Users/dmitrijzitov/Desktop/Texrazr/bin/Debug/net10.0/Texrazr.deps.json
+/Users/dmitrijzitov/Desktop/Texrazr/bin/Debug/net10.0/Texrazr.runtimeconfig.json
+/Users/dmitrijzitov/Desktop/Texrazr/bin/Debug/net10.0/Texrazr.dll
+/Users/dmitrijzitov/Desktop/Texrazr/bin/Debug/net10.0/Texrazr.pdb
+/Users/dmitrijzitov/Desktop/Texrazr/obj/Debug/net10.0/Texrazr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijzitov/Desktop/Texrazr/obj/Debug/net10.0/Texrazr.AssemblyInfoInputs.cache
+/Users/dmitrijzitov/Desktop/Texrazr/obj/Debug/net10.0/Texrazr.AssemblyInfo.cs
+/Users/dmitrijzitov/Desktop/Texrazr/obj/Debug/net10.0/Texrazr.csproj.CoreCompileInputs.cache
+/Users/dmitrijzitov/Desktop/Texrazr/obj/Debug/net10.0/Texrazr.dll
+/Users/dmitrijzitov/Desktop/Texrazr/obj/Debug/net10.0/refint/Texrazr.dll
+/Users/dmitrijzitov/Desktop/Texrazr/obj/Debug/net10.0/Texrazr.pdb
+/Users/dmitrijzitov/Desktop/Texrazr/obj/Debug/net10.0/Texrazr.genruntimeconfig.cache
+/Users/dmitrijzitov/Desktop/Texrazr/obj/Debug/net10.0/ref/Texrazr.dll
