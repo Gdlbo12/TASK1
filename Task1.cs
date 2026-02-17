@@ -1,20 +1,19 @@
 // Дано трехзначное число. Не прибегая к использованию строк вывести наибольшую из его цифр 
 
-int NUM = 432;
+int num = 432;
 
-int H = NUM / 100;
-int B = (NUM / 10) % 10;
-int C = NUM % 10;
+int h = num / 100;
+int b = (num / 10) % 10;
+int c = num % 10;
 
-int A = H;
-if (B > A)
+int a = h;
+if (b > a)
 {
-    A = B;
+    a = b;
 }
-if (C > A)
+if (c > a)
 {
-    A = C;
+    a = c;
 }
 
-Console.WriteLine($"Наибольшая цифра: {A}");
-// объяснение 
+Console.WriteLine($"Наибольшая цифра: {a}");
