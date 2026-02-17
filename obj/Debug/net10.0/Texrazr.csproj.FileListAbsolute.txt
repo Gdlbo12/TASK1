@@ -12,3 +12,4 @@
 /Users/dmitrijzitov/Desktop/Texrazr/obj/Debug/net10.0/Texrazr.pdb
 /Users/dmitrijzitov/Desktop/Texrazr/obj/Debug/net10.0/Texrazr.genruntimeconfig.cache
 /Users/dmitrijzitov/Desktop/Texrazr/obj/Debug/net10.0/ref/Texrazr.dll
+/Users/dmitrijzitov/Desktop/Texrazr/obj/Debug/net10.0/Texrazr.sourcelink.json
