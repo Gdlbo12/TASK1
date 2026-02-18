@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Texrazr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+084844e24bd6fb8655c566ecb99fbaf139bc9a2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a7ae94ae0e313f4ac77788bf19f61cadfc164b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Texrazr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Texrazr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
