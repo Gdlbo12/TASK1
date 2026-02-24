@@ -2,20 +2,14 @@
 
 namespace FirstApp
 {
+    public class Logic
+    {
+        public static int Max(int num)
+        {
+            int h = num / 100;
+            int b = (num / 10) % 10;
+            int c = num % 10;
 
-    public class LogicOne // класс разделение на цифры
-    {
-        public static void Num(int num, out int h, out int b, out int c)
-        {
-            h = num / 100;
-            b = (num / 10) % 10;
-            c = num % 10;
-        }
-    }
-    public class LogicTwo // класс выбор наибольшей
-    {
-        public static int Max(int h, int b, int c)
-        {
             int max = h;
             if (b > max)
             {
@@ -28,6 +22,7 @@ namespace FirstApp
             return max;
         }
     }
+
     class Program
     {
         static void Main(string[] args)
@@ -37,14 +32,9 @@ namespace FirstApp
             Console.WriteLine($"Число: {num}");
             // конец взаимодействия с пользователем
 
-            //начало логики (разделение на цифры)
-            int h, b, c;
-            LogicOne.Num(num, out h, out b, out c);
-            //конец  логики (разделение на цифры)
-
-            //начало логики (выбор наибольшей)
-            int max = LogicTwo.Max(h, b, c);
-            //конец логики (выбор наибольшей)
+            //начало логики
+            int max = Logic.Max(num);
+            //конец логики
 
             // начало взаимодействия с пользователем
             Console.WriteLine($"Наибольшая цифра: {max}");
